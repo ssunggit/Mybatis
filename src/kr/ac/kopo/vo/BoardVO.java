@@ -11,7 +11,7 @@ public class BoardVO {
 	private int[] nos;
 
 	public BoardVO() {
-		super();
+	
 	}
 
 	public BoardVO(int no, String title, String writer, String content, int viewCnt, String regDate) {
